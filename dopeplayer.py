@@ -25,7 +25,7 @@ off_white = 255, 255, 240
 search_butt_width = 13
 search_butt_height = search_butt_width
 
-music_folder = '/home/devon/Music'
+music_folder = '/path/to/your/Music'
 
 pygame.mixer.init()
 
